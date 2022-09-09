@@ -37,5 +37,3 @@ I must focus on emproving my knowledge about responsive layouts and media querie
 
 ### Useful resources
 -[Media Queries - W3Schools](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) - This helped me a lot from learning about media queries and understanding its syntaxes and details
-
-fiouadshfiouadshfiusadhfiudsahifus
